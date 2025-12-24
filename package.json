@@ -1,11 +1,11 @@
 {
-  "name": "guild-chat-forwarder",
+  "name": "bpsr-discord-guild",
   "version": "0.1.0",
   "private": false,
   "type": "commonjs",
   "main": "src/main.js",
   "bin": {
-    "guild-chat": "./src/main.js"
+    "bpsr-discord-guild": "./src/main.js"
   },
   "scripts": {
     "start": "node ./src/main.js",

@@ -1,4 +1,4 @@
-# Guild Chat Forwarder
+# bpsr-discord-guild
 
 Star Resonance のギルドチャットだけを Discord Webhook に転送するシンプルなツールです。コンソールにも「名前: メッセージ」で表示されます。
 
