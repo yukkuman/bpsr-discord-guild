@@ -3,7 +3,7 @@
 Star Resonance のギルドチャットだけを Discord Webhook に転送するシンプルなツールです。コンソールにも「名前: メッセージ」で表示されます。
 
 ## 使う人向け（exe）
-1. 前提: Windows、Npcap が入っていること（管理者権限は不要）。
+1. 前提: Windows、Npcap が入っていること（管理者権限は不要）。Star Resonance を起動しているときにのみ利用してください。
 2. `dist` 内の3つを同じフォルダに置く: 
 	- bpsr-discord-guild.exe
 	- cap.node（node_modules/cap/build/Release/cap.node からコピー済みのもの）
