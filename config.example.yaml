@@ -1,0 +1,3 @@
+# Rename to config.yaml and set your Discord webhook.
+webhook:
+  guild: "https://discord.com/api/webhooks/..."
